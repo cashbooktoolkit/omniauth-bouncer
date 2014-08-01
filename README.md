@@ -1,6 +1,6 @@
 # Omniauth::Bouncer
 
-An Omniauth strategy for 
+An Omniauth strategy for [Bouncer](https://github.com/sourdoughlabs/bouncer).
 
 ## Installation
 
